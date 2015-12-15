@@ -22,7 +22,7 @@
       "boot_wait": "5s",
       "disk_size": 10240,
       "guest_os_type": "FreeBSD_64",
-      "headless": false,
+      "headless": true,
       "http_directory": ".",
       "iso_checksum": "{{user `iso_checksum`}}",
       "iso_checksum_type": "md5",
